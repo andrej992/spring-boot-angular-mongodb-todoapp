@@ -5,7 +5,7 @@
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-mongodb-angular-todo-app.git
+git clone https://github.com/andrej992/spring-boot-angular-mongodb-todoapp.git
 ```
 
 **2. Build and run the backend app using maven**
